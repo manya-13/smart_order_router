@@ -66,6 +66,11 @@ Values are selected through a grid search over a small range for simplicity.
 - `backtest.py` – Main backtest script
 - `results.png` – Visualization of cumulative cost
 
+## Suggested Improvements
+- Adding dynamic fill probabilities based on queue position modeling
+- Incorporating partial order cancellations or stochastic volume inflow
+- Adding real time latency simulation for venues
+
 ## How to Run
 
 ```
